@@ -53,7 +53,6 @@ namespace CsvHelperExamples
             DataTable dt = new DataTable();
 
             List<dynamic> dynObj;
-            // Read from csv record by record up to count
             try
 
             {
